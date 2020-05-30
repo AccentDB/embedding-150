@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "accentDB_4_classes_600_samples",
+      "tensorShape": [
+        600,
+        6487
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/AccentDB/embedding-150/master/accent_4_embed_150.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/AccentDB/embedding-150/master/accents_4_metadata_150.tsv"
+    }
+  ]
+}
